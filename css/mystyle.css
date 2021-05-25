@@ -1,0 +1,13 @@
+
+#listaAlumnos{
+ text-align: center;
+ align-content: center;
+}
+
+
+.edit{
+    color: cornflowerblue;
+}
+.delete{
+    color: red;
+}
